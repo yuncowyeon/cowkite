@@ -1,3 +1,8 @@
-# cowkite
+# 19273021 윤소연
 
-Hello my name is soyeon
+##1주차 과제
+
+##2주차 과제
+
+
+##3주차 과제
